@@ -2,10 +2,10 @@
 
 # Indented
 
-\t// Some comments
-\tline 1 of code
-\tline 2 of code
-\tline 3 of code
+// Some comments
+  line 1 of code
+  line 2 of code
+  line 3 of code
 
 <div class=\"warning\">
 *TEST*
